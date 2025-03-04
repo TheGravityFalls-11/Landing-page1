@@ -3,7 +3,7 @@
 A modern, responsive landing page built with frontend technologies to showcase products, services, or business information effectively.
 
 ## Live Demo
-[Live Demo](https://thegravityfalls-11.github.io/Landing-page1/)
+[Live Demo]([https://thegravityfalls-11.github.io/Landing-page1/](https://thegravityfalls-11.github.io/Landing-page1/))
 
 ## Installation
 1. Clone the repository:
