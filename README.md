@@ -26,7 +26,7 @@ A modern, responsive landing page built with frontend technologies to showcase p
 ## Technologies Used
 - **HTML5** - Structure
 - **CSS3** - Styling & animations
-- **JavaScript** - Interactivity
+  
 
 ## Contributing
 1. Fork the repo
